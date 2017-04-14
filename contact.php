@@ -27,10 +27,10 @@
 			<div class="container">
 				<a class="brand-logo" href="./"><?php echo $navTitle; ?></a>
 				<ul class="right">
-					<li class="active"><a href="#">Home</a></li>
+					<li><a href="./">Home</a></li>
 					<li><a href="about.php">About</a></li>
-					<li ><a href="portfolio.php">Portfolio</a></li>
-					<li><a href="contact.php">Contact</a></li>
+					<li><a href="portfolio.php">Portfolio</a></li>
+					<li class="active"><a href="#">Contact</a></li>
 				</ul>
 			</div>
 		</div>
