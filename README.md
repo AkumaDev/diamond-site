@@ -1,6 +1,8 @@
 # Diamond Site
 A blue themed personal site using Materialize
 
+## [Demo](https://sites.maattah.pw/diamond-site)
+
 ## Pictures
 
 ![Home](http://i.imgur.com/WuEUdzu.png)
