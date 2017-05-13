@@ -14,10 +14,10 @@
 	<div class="blue darken-3">
 		<div class="container">
 			<div class="white-text">
-				<?php if($facebook == true) { echo '<a href="' . $facebookLink . '"><i class="fa fa-facebook"></i></a>'; } ?>
-				<?php if($mcm == true) { echo '<a href="' . $mcmLink . '"><i class="fa fa-cubes" style="color: white;"></i></a>'; } ?>
-				<?php if($instagram == true) { echo '<a href="' . $instagramLink .'"><i class="fa fa-instagram"></i></a>'; } ?>
-				<?php if($twitter == true) { echo '<a href="' . $twitterLink . '"><i class="fa fa-twitter" style="color: white;"></i></a>'; } ?>
+				<?php if($facebook) { echo '<a href="' . $facebookLink . '"><i class="fa fa-facebook"></i></a>'; } ?>
+				<?php if($mcm) { echo '<a href="' . $mcmLink . '"><i class="fa fa-cubes" style="color: white;"></i></a>'; } ?>
+				<?php if($instagram) { echo '<a href="' . $instagramLink .'"><i class="fa fa-instagram"></i></a>'; } ?>
+				<?php if($twitter) { echo '<a href="' . $twitterLink . '"><i class="fa fa-twitter" style="color: white;"></i></a>'; } ?>
 			</div>
 		</div>
 	</div>
